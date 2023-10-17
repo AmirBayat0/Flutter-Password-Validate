@@ -1,6 +1,6 @@
 # Flutter Password Validate example
-## Preview
-![Untitled Project](https://user-images.githubusercontent.com/91388754/164055702-8c88e983-edd0-4f95-b23c-43f09bc32020.gif)
+## Watch it on Yotube ()
+![Untitled](https://github.com/AmirBayat0/Flutter-Password-Validate/assets/91388754/b8d1285e-7fab-48c6-9ff9-b90c80ec4794)
 
 ## Links
 * [My Socials](https://znap.link/CodeWithFlexz)
